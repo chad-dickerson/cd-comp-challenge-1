@@ -1,1 +1,1 @@
-# Flexbox-Comp-Challenges
+# Static Comp Challenge
